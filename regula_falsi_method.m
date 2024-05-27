@@ -20,7 +20,7 @@ if polyval(f, a) * polyval(f, b) < 0
     end
     x = p;
 else
-    x = 'Error';
+    x = "Error";
 end
 
 end
